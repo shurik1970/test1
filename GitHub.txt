@@ -1,0 +1,14 @@
+git config --global user.email "sanny70@mail.ru"
+git config --global user.name "shurik1970"
+
+git clone
+git status
+git add
+git commit -m""
+git push
+
+git init
+git
+git
+git
+git
