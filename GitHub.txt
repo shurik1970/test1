@@ -1,14 +1,14 @@
-git config --global user.email "111"
-git config --global user.name "222"
+git config --global user.email "sanny70@mail.ru"
+git config --global user.name "shurik1970"
 
 git clone
 git status
-git add .
+git add
 git commit -m""
 git push
 
 git init
-git log
-git commit --amend -m 'new comment'
+git
+git
 git
 git
